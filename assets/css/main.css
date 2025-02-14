@@ -459,6 +459,10 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.row > .col-13 {
+			width: 30%;
+		}
+
 		.row > .off-12 {
 			margin-left: 100%;
 		}
@@ -1437,10 +1441,13 @@ input, select, textarea {
 					width: 100%;
 				}
 
+				.row > .col-12-smaller {
+					width: 50%;
+				}
+
 				.row > .off-12-small {
 					margin-left: 100%;
 				}
-
 				.row.gtr-0 {
 					margin-top: 0;
 					margin-left: 0rem;
@@ -2686,7 +2693,7 @@ input, select, textarea {
     	margin: 0 auto 2rem;
 	}
 	video.horizontal{
-		max-width: 150%;
+		max-width: 100%;
 	}
 /* Actions */
 
